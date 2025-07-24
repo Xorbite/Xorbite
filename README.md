@@ -94,9 +94,9 @@
 <h2>📊 My GitHub Stats & Achievements</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xorbite&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffd700&icon_color=ffd700&text_color=ffffff" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xorbite&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffd700&text_color=ffffff" alt="Top Langs" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Xorbite&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117&sideNums=ffd700&currStreakLabel=ffd700&ring=ffd700&fire=ffd700" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Xorbite&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffd700&icon_color=ffd700&text_color=ffffff" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xorbite&layout=compact&theme=dark&bg_color=0d1117&title_color=ffd700&text_color=ffffff" alt="Top Langs" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Xorbite&theme=dark&date_format=j%20M%5B%20Y%5D&background=0d1117&sideNums=ffd700&currStreakLabel=ffd700&ring=ffd700&fire=ffd700" alt="GitHub Streak" height="165"/>
 </p>
 
 <h2>📫 Contact</h2>
