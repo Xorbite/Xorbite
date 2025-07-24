@@ -4,15 +4,15 @@
 </p>
 
 <!-- Name & Motto -->
-<h3 align="center">
+<h2 align="center">
   <b><span style="font-size: 2.5rem; font-family: 'Roboto';">YΛZΛП </span>
   <img src="https://img.icons8.com/fluency/48/rocket.png" width="38"/>
-</h3>
+</h2>
 
 <h2>👋 About Me</h2>
 
 <b><h3>Outside of code and tech, I’m into:</h3>
-• 🕹️ Gaming & tech games ‧ 🎯 Airsoft & sports
+🕹️ Gaming & tech games ‧ 🎯 Airsoft & sports
 • 🏡 Homelab tinkering ‧ 🎨 Graphic design
 • 🚀 Innovations, tech & space news
 • 🍿 Movies, music, podcasts, reading
